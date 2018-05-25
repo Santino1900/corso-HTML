@@ -1,0 +1,45 @@
+* {
+    font-family: 'kavinar', Arial, Helvetica, sans-serif
+}
+
+header,
+footer {
+    border: 1px red solid;
+    text-align: center;
+    height: 100px;
+    color: greenyellow;
+    font-size: 2cm;
+}
+
+#content {
+    border: 2px dotted green;
+}
+
+#sideMenu {
+    width: 30%;
+}
+
+#noIdea {
+    /*  display: inline;*/
+    width: 70%;
+    color: red
+}
+
+.withBorder {
+    border: 1px solid black;
+    color: darkblue
+}
+
+.titolo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Kavivanar', cursive;
+    color: darkorange
+}
+
+h1.titolo {
+    font-size: 34px;
+    text-decoration: underline
+}
